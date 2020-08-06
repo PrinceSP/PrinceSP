@@ -1,6 +1,6 @@
 # Hola!, I'm Prince 👋
 
-## I'm College Student
+### I'm College Student
 
 - 🔭 I’m currently working on my own web deveopment projects[website][react apps]!
 - 🌱 I’m currently learning Full-Stack Development also UI/UX Design (actually, everythings);
