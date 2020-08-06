@@ -8,6 +8,7 @@
 - ⚡ Fun fact: I love to sing and workout. And I ❲code❳ everyday
 
 ### Language and Tools:
+<img align="left" alt="Atom" width="26px" src="https://github.com/haideralipunjabi/atom-icons/blob/master/svg/social_medium.svg" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
