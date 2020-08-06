@@ -29,6 +29,9 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=PrinceSP&show_icons=true&hide_border=true" />
+
+
 [website]: https://princesp.github.io/prince-slandingpage
 [instagram]: https://www.instagram.com/javascript_programmer
 [facebook]: https://www.facebook.com/121034026a2603
