@@ -30,7 +30,7 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br/>
 <br/>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=PrinceSP&show_icons=true&hide_border=false" />
+<img style="padding:0;" align="left" src="https://github-readme-stats.vercel.app/api?username=PrinceSP&show_icons=true&hide_border=false" />
 
 
 [website]: https://princesp.github.io/prince-slandingpage
