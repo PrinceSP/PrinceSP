@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hola!, I'm Prince 👋
 
-<!--
-**PrinceSP/PrinceSP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm College Student
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on my own web deveopment projects[website][react apps]!
+- 🌱 I’m currently learning Full-Stack Development also UI/UX Design (actually, everythings);
+- 👯 I’m looking to code along directly with other programmers like Edwin Simo , Brad Traversy, Kevin Powell, and Kyle Cook 🤩🤣
+- ⚡ Fun fact: I love to sing and workout. And I ❲code❳ everyday
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+<br/>
+
+[website]: https://princesp.github.io/prince-slangindpage/
+[instagram]: https://www.instagram.comjavascript_programmer/
+[github]: https://github.com/PrinceSP/
+[facebook]: https://www.facebook.com/121034026a2603
