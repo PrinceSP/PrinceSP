@@ -1,4 +1,4 @@
-# Hola!,  I'm Prince 👋
+# Hello, I'm Prince 👋
 
 ### I'm College Student
 
