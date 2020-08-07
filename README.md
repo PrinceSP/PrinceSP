@@ -33,7 +33,7 @@
 <br/>
 <br/>
 
-<img style="background:bluesteel;" align="left" src="https://github-readme-stats.vercel.app/api?username=PrinceSP&show_icons=true&hide_border=false" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=PrinceSP&show_icons=true&hide_border=false&theme=radical" />
 
 
 [website]: https://princesp.github.io/prince-slandingpage
