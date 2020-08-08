@@ -2,7 +2,7 @@
 
 ### I'm College Student
 
-- 🔭 I’m currently working on my own web deveopment projects
+- 🔭 I’m currently working on my own web development projects
 - 📚 I’m currently learning Full-Stack Development also UI/UX Design (actually, everythings)
 - 👯 I’m looking to code along directly with other programmers like Edwin Simo , Brad Traversy, Kevin Powell, and Kyle Cook 🤩🤣
 - ⚡ Fun fact: I love to sing and workout. And I ❲code❳ everyday
