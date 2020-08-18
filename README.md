@@ -37,8 +37,6 @@
 
 <br/>
 <br/>
-<br/>
-<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceSP&layout=compact)](https://github.com/princesp/github-readme-stats)
 
