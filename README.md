@@ -30,11 +30,6 @@
 <br/>
 <br/>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=PrinceSP&count_private=true&show_icons=true&hide_border=false&theme=cobalt" />
-
-<br/>
-<br/>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceSP&layout=compact)](https://github.com/princesp/github-readme-stats)
 
 [website]: https://princesp.github.io/prince-slandingpage
