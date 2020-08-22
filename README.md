@@ -30,7 +30,7 @@
 <br/>
 <br/>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=PrinceSP&count_private=true&show_icons=true&hide_border=false&theme=cobalt" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=PrinceSP&count_private=false&show_icons=true&hide_border=false&theme=cobalt" />
 
 <br/>
 <br/>
