@@ -3,9 +3,6 @@
 - 🔭 I’m currently working on my own web development projects
 - 📚 I’m Full-Stack Development and UX Design enthusiast.
 - ⚡ Fun fact: I love to sing and workout. And I ❲code❳ everyday
-
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
 <br/>
 <br/>
 
