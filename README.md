@@ -17,5 +17,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceSP&layout=compact)](https://github.com/princesp/github-readme-stats)
 
 [website]: https://princesp.github.io/prince-slandingpage
-[instagram]: https://www.instagram.com/javascript_programmer
+[instagram]: https://www.instagram.com/prsh_js
 [facebook]: https://www.facebook.com/121034026a2603
