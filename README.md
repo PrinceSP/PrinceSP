@@ -1,8 +1,7 @@
 # Hello, I'm Prince 👋
 
-- 🔭 I’m currently working on my own web development projects
-- 📚 I’m Full-Stack Development and UX Design enthusiast.
-- ⚡ Fun fact: I love to sing and workout. And I ❲code❳ everyday
+- 📚 I LoveFull-Stack Development and UX Design.
+- ⚡ Fun fact: I love to sing and workout, and a little bit psycho
 <br/>
 <br/>
 
