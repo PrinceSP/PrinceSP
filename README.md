@@ -1,6 +1,6 @@
 # Hello, I'm Prince 👋
 
-- 📚 I LoveFull-Stack Development and UX Design.
+- 📚 I Love Web Development and UX Design.
 - ⚡ Fun fact: I love to sing and workout, and a little bit psycho
 <br/>
 
