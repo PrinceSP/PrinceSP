@@ -1,7 +1,7 @@
 # Hello, I'm Prince 👋
 
 - 📚 I Love Web Development and UX Design.
-- ⚡ Fun fact: I love to sing and workout, and a little bit psycho
+- ⚡ Fun fact: I love to sing and workout.
 <br/>
 
 ### Connect with me:
